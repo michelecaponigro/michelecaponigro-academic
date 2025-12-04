@@ -1,4 +1,12 @@
-ist of ACADEMIC search engines:
+---
+title: "Titolo"
+permalink: /nome-pagina/
+layout: single
+author_profile: true  
+---
+
+
+list of ACADEMIC search engines:
 
 
 
