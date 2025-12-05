@@ -1,0 +1,31 @@
+---
+title: "Talks"
+permalink: /talks/
+layout: single
+author_profile: true
+---
+
+<h1>Conferenze e Presentazioni</h1>
+
+<h2>Talk Recenti</h2>
+<ul>
+{% for post in site.talks reversed %}
+  {% if forloop.index <= 5 %}
+  <li>
+    <strong>{{ post.date | date: "%Y" }}:</strong> {{ post.title }}<br>
+    <em>{{ post.venue }}, {{ post.location }}</em>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Archivio Completo</h2>
+<ul>
+{% for post in site.talks reversed %}
+  {% if forloop.index > 5 %}
+  <li>
+    <strong>{{ post.date | date: "%Y" }}:</strong> {{ post.title }}
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
