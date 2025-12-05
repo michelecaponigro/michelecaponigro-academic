@@ -1,3 +1,5 @@
+# Jekyll Configuration
+theme: minima
 header_pages:
   - about.html
   - publications.html
