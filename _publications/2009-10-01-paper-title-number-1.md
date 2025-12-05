@@ -1,3 +1,10 @@
+---
+title: "Publications"
+permalink: /publications/
+layout: single
+author_profile: true
+---
+
 Pubblicazioni: 2017-2019
 Free Will from Outside Spacetime? The Role of Observer in Quantum Mechanics.
 M Caponigro
