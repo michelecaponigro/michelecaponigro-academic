@@ -1,7 +1,7 @@
 header_pages:
   - about.html
   - publications.html
-  - presentations.html  
+  - presentations.html  # CAMBIA DA talks.html A presentations.html!
   - teaching.html
   - portfolio.html
   - cv.html
