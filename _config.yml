@@ -8,6 +8,24 @@ header_pages:
 # Basic Site Settings
 locale: "en-US"
 title: "Michele Caponigro – Sito Accademico"
+# ... altre configurazioni base ...
+
+# Collections ← METTI QUI!
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: true
+  portfolio:
+    output: true
+
+# ... resto del file ...
+locale: "en-US"
+title: "Michele Caponigro – Sito Accademico"
 title_separator: "-"
 name: "Michele Caponigro"
 description: "Portfolio accademico e progetti di ricerca"
