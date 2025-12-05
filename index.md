@@ -15,6 +15,8 @@ Qui troverai:
 
 ### Bio breve
 PhD Univ.Bergamo
-La mia ricerca si concentra su [inserisci il tuo campo].
+La mia ricerca si concentra su: Philosophy of Physics, Interpretations of Quantum Mechanics.
+Philosophy of Quantum Mechanics.
+Quantum and Reality, Philosophy of Science.
 
 [Contattami](mailto:michelecaponigro @ gmail.com) | [GitHub](https://github.com/michelecaponigro)
