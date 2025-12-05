@@ -13,21 +13,11 @@ Qui troverai:
 - I miei progetti di ricerca
 - Materiali didattici
 
-### Bio breve
-PhD Univ.Bergamo
-La mia ricerca si concentra su: Philosophy of Physics, Interpretations of Quantum Mechanics.
-Philosophy of Quantum Mechanics.
-Quantum and Reality, Philosophy of Science.
-
 [Contattami](mailto:michelecaponigro @ gmail.com) | [GitHub](https://github.com/michelecaponigro)
----
-layout: home
-title: "Michele Caponigro"
----
 
 # Welcome to my Academic Site
 
-## About Me
+## About Me ( ### Bio breve)
 PhD Researcher (Bergamo University)
 ## Research Interests
 - Quantum Mechanics
@@ -39,4 +29,4 @@ PhD Researcher (Bergamo University)
 [See all publications](/publications/)
 
 ## Contact
-Email: michelecaponigro @ gmail.com
+Email: michele.caponigro @ gmail.com
