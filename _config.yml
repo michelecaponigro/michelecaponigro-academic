@@ -1,8 +1,7 @@
 header_pages:
   - about.html
   - publications.html
-   talks.html
-  - presentations.html  # CAMBIA DA talks.html A presentations.html!
+  - presentations.html  ← SOLO QUESTO!
   - teaching.html
   - portfolio.html
   - cv.html
