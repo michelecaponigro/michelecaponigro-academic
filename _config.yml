@@ -1,11 +1,10 @@
 header_pages:
-  - about.md            # File ESISTE: about.md
-  - publications.html   # File ESISTE: publications.html (NON .md!)
-  - talks.html          # File ESISTE: talks.html (CON S!)
-  - teaching.html       # File ESISTE: teaching.html
-  - portfolio.html      # File ESISTE: portfolio.html
-  - cv.md               # File ESISTE: cv.md (NON .html!)
-
+  - about.md
+  - publications.md
+  - talks.md
+  - teaching.md
+  - portfolio.md
+  - cv.md
 # Basic Site Settings
 locale: "en-US"
 title: "Michele Caponigro – Sito Accademico"
