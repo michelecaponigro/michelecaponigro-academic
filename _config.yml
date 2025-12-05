@@ -1,10 +1,20 @@
 header_pages:
-  - about.md
-  - publications.html   # ATTENZIONE! Il file è .html, non .md!
-  - talks.html          ← CON S! ESATTO!
-  - teaching.html
-  - portfolio.html
-  - cv.md               # ATTENZIONE! Il file è .md, non .html!
+  - about.md            # File ESISTE: about.md
+  - publications.html   # File ESISTE: publications.html (NON .md!)
+  - talks.html          # File ESISTE: talks.html (CON S!)
+  - teaching.html       # File ESISTE: teaching.html
+  - portfolio.html      # File ESISTE: portfolio.html
+  - cv.md               # File ESISTE: cv.md (NON .html!)
+
+# Basic Site Settings
+locale: "en-US"
+title: "Michele Caponigro – Sito Accademico"
+title_separator: "-"
+name: "Michele Caponigro"
+description: "Portfolio accademico e progetti di ricerca"
+url: "https://michelecaponigro.github.io"
+baseurl: ""
+repository: "michelecaponigro/michelecaponigro.github.io"
 
 # Basic Site Settings
 locale: "en-US"
