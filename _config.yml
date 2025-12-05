@@ -1,16 +1,22 @@
 header_pages:
   - about.html
   - publications.html
-  - talks.html         
+  - talks.html
   - teaching.html
   - portfolio.html
   - cv.html
+
 # Basic Site Settings
 locale: "en-US"
 title: "Michele Caponigro – Sito Accademico"
-# ... altre configurazioni base ...
+title_separator: "-"
+name: "Michele Caponigro"
+description: "Portfolio accademico e progetti di ricerca"
+url: "https://michelecaponigro.github.io"
+baseurl: ""
+repository: "michelecaponigro/michelecaponigro.github.io"
 
-# Collections ← METTI QUI!
+# Collections
 collections:
   talks:
     output: true
@@ -22,6 +28,20 @@ collections:
     output: true
   portfolio:
     output: true
+
+# Site Author (sidebar)
+author:
+  avatar: "assets/img/profile.png"
+  name: "Michele Caponigro"
+  bio: "PhD."
+  location: "Italia"
+  employer: "PhD Università di Bergamo"
+  email: "michelecaponigro@gmail.com"
+  github: "michelecaponigro"
+  googlescholar: "https://scholar.google.com/citations?user=TUO_ID_REALE"
+  orcid: "https://orcid.org/0000-0002-1719-4548"
+
+# ... resto delle tue configurazioni esistenti ...
 
 # ... resto del file ...
 locale: "en-US"
