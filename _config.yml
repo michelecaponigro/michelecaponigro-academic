@@ -1,10 +1,10 @@
 header_pages:
   - about.md
-  - publications.md
-  - talk.html       ← .html NON .md!
-  - teaching.html   ← .html
-  - portfolio.html  ← .html
-  - cv.html         ← .html
+  - publications.html   # ATTENZIONE! Il file è .html, non .md!
+  - talks.html          ← CON S! ESATTO!
+  - teaching.html
+  - portfolio.html
+  - cv.md               # ATTENZIONE! Il file è .md, non .html!
 
 # Basic Site Settings
 locale: "en-US"
