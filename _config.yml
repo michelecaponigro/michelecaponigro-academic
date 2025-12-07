@@ -6,7 +6,7 @@ header_pages:
   - talks.html
   - teaching.html
   - portfolio.html
-  - cv.html 
+  - cv
 
 # Basic Site Settings
 locale: "en-US"
