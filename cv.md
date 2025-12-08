@@ -39,4 +39,4 @@ Quantum and Reality, Philosophy of Science.
 -
 
 ## Referenze (opzionale)
-- Disponibili su richiesta
+
