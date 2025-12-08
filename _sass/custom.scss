@@ -1,0 +1,4 @@
+// Nasconde la voce "About" dal menu
+li a[href="/about/"] {
+  display: none !important;
+}
