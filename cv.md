@@ -43,14 +43,11 @@ Academic website: https://www.michelecaponigro.it
 
 ## Research Methodology & Workflow
 
-My integrated research system employs a structured, transdisciplinary approach:
-
-```
 ## Research Methodology & Workflow
 
 My integrated research system employs a structured, transdisciplinary approach:
 
-<pre>
+<pre style="background: transparent; border: none; padding: 0; margin: 0; font-family: monospace; white-space: pre;">
 TRANSDISCIPLINARY RESEARCH
 │
 ├── KNOWLEDGE MANAGEMENT SYSTEM
@@ -85,7 +82,7 @@ TRANSDISCIPLINARY RESEARCH
 │   │   ├── Reproducible pipelines
 │   │   └── Version control (Git)
 │   │
-│   └── VISUALIZZAZIONE
+│   └── VISUALIZATION
 │       ├── Matplotlib/Seaborn (paper graphics)
 │       ├── Conceptual diagrams (Draw.io)
 │       ├── Comparative infographics
