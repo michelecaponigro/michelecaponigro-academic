@@ -41,6 +41,27 @@ Quantum and Reality, Philosophy of Science.
 **Portfolio personale / Personal Portfolio:** [link](https://tuosito.github.io)<br>
 Academic website: https://www.michelecaponigro.it
 
+## 🌐 Digital Hub - My Research Profiles
+
+**Connect with my work across platforms:**
+
+| Platform | Purpose | Link |
+|----------|---------|------|
+| **Google Scholar** | My publications, citations, and h-index | [🔗 View Profile](https://scholar.google.com/citations?user=ZWqNZxYAAAAJ) |
+| **ORCID** | Persistent identifier for all my research outputs | [🔗 0000-0002-1719-4548](https://orcid.org/0000-0002-1719-4548) |
+| **arXiv** | All my preprints and working papers | [🔗 Author Page](https://arxiv.org/search/?query=michele+caponigro&searchtype=author) |
+| **PhilPapers/PhilPeople** | My work in philosophy of physics | [🔗 PhilPapers Profile](https://philpapers.org/profile/1396) |
+| **ResearchGate** | Academic network, full-text papers, Q&A | [🔗 ResearchGate Profile](https://www.researchgate.net/profile/Michele_Caponigro) |
+| **GitHub** | Code, projects, and technical materials | [🔗 GitHub](https://github.com/michelecaponigro) |
+| **GitLab** | Research code repositories | [🔗 GitLab](https://gitlab.com/michele.caponigro) |
+| **Academia.edu** | Additional publications repository | [🔗 Academia.edu](http://unibg.academia.edu/MicheleCaponigro) |
+| **LinkedIn** | Professional networking | [🔗 LinkedIn](https://www.linkedin.com/in/michele-caponigro-3228ba33/) |
+
+**Key Resources:**
+- [📄 My Full CV (PDF)]()
+- [📚 My Publications (Full List)]()
+- [✉️ Contact Me]()
+
 ## Research Methodology & Workflow
 
 ## Research Methodology & Workflow
