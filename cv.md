@@ -24,19 +24,22 @@ Philosophy of Physics, Interpretations of Quantum Mechanics.
 Philosophy of Quantum Mechanics.
 Quantum and Reality, Philosophy of Science.
 
-## Esperienza professionale
 
 
-
-## Istruzione
-  
+# Curriculum Vitae
 
 
-## Competenze
+## Dati personali / Personal Information
+**Nome / Name:** MC 
+**Email:** mc@email.com  
+**Telefono / Phone:** +39 333 1234567  
+**LinkedIn:** [link](https://www.linkedin.com/in/mc)  
+**GitHub:** [link](https://github.com/mc)  
+**GitLab:** [link](https://gitlab.com/mc)  
+**ResearchGate:** [link](https://www.researchgate.net/profile/MC)  
+**arXiv:** [link](https://arxiv.org/a/cm)  
+**Portfolio personale / Personal Portfolio:** [link](https://tuosito.github.io)
+Academic website: https://www.michelecaponigro.it
 
 
-## Pubblicazioni (opzionale)
--
-
-## Referenze (opzionale)
 
